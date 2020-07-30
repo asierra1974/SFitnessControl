@@ -1,6 +1,10 @@
-https://github.com/snicoper/apuntes/blob/master/programacion/postgresql/comandos_consola_psql.rst
+https://david-estevez.gitbooks.io/the-git-the-bad-and-the-ugly/content/es/subir-y-bajar-cambios-a-un-repositorio-remoto.html
 
 https://rogerdudler.github.io/git-guide/index.es.html
+
+https://gist.github.com/dasdo/9ff71c5c0efa037441b6
+
+https://github.com/snicoper/apuntes/blob/master/programacion/postgresql/comandos_consola_psql.rst
 
 
 Esta lista de reproduccion de videos, fue seleccionada especficamente para el desarrolo de este proyecto.
