@@ -1,0 +1,1 @@
+https://github.com/snicoper/apuntes/blob/master/programacion/postgresql/comandos_consola_psql.rst
