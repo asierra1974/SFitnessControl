@@ -1,1 +1,7 @@
 https://github.com/snicoper/apuntes/blob/master/programacion/postgresql/comandos_consola_psql.rst
+
+https://rogerdudler.github.io/git-guide/index.es.html
+
+
+Esta lista de reproduccion de videos, fue seleccionada especficamente para el desarrolo de este proyecto.
+https://www.youtube.com/playlist?list=PLVul8SvfrLg_3D3aPJ1FY4jIZpguwUGS3
